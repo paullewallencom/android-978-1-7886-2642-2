@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\utkarshak\.gradle\caches\modules-2\files-2.1\com.pushtorefresh.storio\common\1.12.1\89f81b4e91cde9919b9b342db7626ceabc6c63cd\common-1.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89f81b4e91cde9919b9b342db7626ceabc6c63cd">
+        <dex dex="E:\AndroidSDK\Section05\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.12.1_e2487842228aae11a4ca3db09a99369c276feb1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\utkarshak\.gradle\caches\modules-2\files-2.1\com.pushtorefresh.storio\sqlite\1.12.1\5dcd270b69d041eca6f433cc2870d5bdce7555a5\sqlite-1.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5dcd270b69d041eca6f433cc2870d5bdce7555a5">
+        <dex dex="E:\AndroidSDK\Section05\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqlite-1.12.1_c87fb956e3b435802b44922f53b55438d17ac521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\Section05\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21e9533aeb7c537660fccdacbf1d3709c5b3aa4c">
+        <dex dex="E:\AndroidSDK\Section05\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_de995fbb8b82bd3e2f0fc2f378207cea5911a2dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\Section05\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\AndroidSDK\Section05\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ddab31a1b874f692ada678d2d7eeb3a784cd5caa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\utkarshak\.gradle\caches\modules-2\files-2.1\com.pushtorefresh.storio\content-resolver-annotations\1.12.1\987d8ef6f44cd0a3832ffa4e98b8cb42c6a09f07\content-resolver-annotations-1.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="987d8ef6f44cd0a3832ffa4e98b8cb42c6a09f07">
+        <dex dex="E:\AndroidSDK\Section05\app\build\intermediates\transforms\dex\debug\folders\1000\10\content-resolver-annotations-1.12.1_d2da887cf2c52c1527ce4f3263c77e06c6d313d7\classes.dex" />
+    </item>
+
+</items>

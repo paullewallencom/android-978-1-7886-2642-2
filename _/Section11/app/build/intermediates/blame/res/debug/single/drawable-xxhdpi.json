@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidSDK\\Section11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_settings_black_24dp.png",
+        "source": "E:\\AndroidSDK\\Section11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidSDK\\Section11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_settings_black.png",
+        "source": "E:\\AndroidSDK\\Section11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_black.png"
+    }
+]
